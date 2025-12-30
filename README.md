@@ -323,6 +323,4 @@ All endpoints return standardized error responses:
 
 ---
 
-## 👨‍💻 Project By
-- Youssef Mohamed Salem
 
